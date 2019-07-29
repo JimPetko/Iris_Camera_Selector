@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iris_Camera_Selector", "Iris_Camera_Selector\Iris_Camera_Selector.csproj", "{98403944-D1AE-48A4-81BB-F5B7F3F7F513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98403944-D1AE-48A4-81BB-F5B7F3F7F513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98403944-D1AE-48A4-81BB-F5B7F3F7F513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98403944-D1AE-48A4-81BB-F5B7F3F7F513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98403944-D1AE-48A4-81BB-F5B7F3F7F513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD9D3873-C9F2-4D78-A6A5-3A25B33B7CE8}
+	EndGlobalSection
+EndGlobal
